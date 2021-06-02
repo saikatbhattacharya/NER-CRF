@@ -276,7 +276,7 @@ typing-extensions==3.7.2
 tzlocal==1.5.1
 ujson==1.35
 unicodecsv==0.14.1
-urllib3==1.24.2
+urllib3==1.26.5
 uvloop==0.12.2
 wcwidth==0.1.7
 webencodings==0.5.1
